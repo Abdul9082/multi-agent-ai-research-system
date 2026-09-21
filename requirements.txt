@@ -1,0 +1,21 @@
+# Environment variables
+python-dotenv
+
+# Groq
+langchain-groq
+
+# LangChain core + agents
+langchain
+langchain-core
+langchain-community
+
+# Tavily web search
+tavily-python
+langchain-tavily
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Streamlit UI
+streamlit
